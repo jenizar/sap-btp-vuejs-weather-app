@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install bootstrap bootstrap-vue vue core-js moment axios
+npm install 
 ```
 
 ### Compiles and hot-reloads for development
