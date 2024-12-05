@@ -31,6 +31,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Reference:
 
-1. 
+1. https://sapcloudapps.wordpress.com/2024/12/05/vue-js-on-sap-btp-weather-app/
 
 2. https://youtu.be/YqsmqL8wHT8?si=QilXRTLUKTVICeyj
