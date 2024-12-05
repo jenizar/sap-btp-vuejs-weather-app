@@ -1,5 +1,11 @@
 # weather-app
 
+![alt text](https://github.com/jenizar/sap-btp-vuejs-weather-app/blob/main/screenshots/vue1.png)
+
+![alt text](https://github.com/jenizar/sap-btp-vuejs-weather-app/blob/main/screenshots/vue2.png)
+
+![alt text](https://github.com/jenizar/sap-btp-vuejs-weather-app/blob/main/screenshots/vue3.png)
+
 ## Project setup
 ```
 npm install 
